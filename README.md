@@ -1,8 +1,8 @@
 <h1>Script Converter for Indian Languages<h1>
-<p>
+
 The apk is a script converter android app for Indian Languages.
 The main code on how to convert the script from one language to another is written ‘converter.java’
-</p>
+
 
 <h2>How to install:</h2>
 <ul>
